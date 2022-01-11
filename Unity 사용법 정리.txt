@@ -1,0 +1,17 @@
+Unity 내용정리
+
+1. SampleScene 는 임시변수. 저장하려면 Apply all 로 project속에 파일로 저장해야한다.
+2. Hierarchy 플러스 메뉴에서 3D object 생성, Audio 
+3. object에 component 생성 -> 드래그로 끌어다 놓기
+4. 충돌관리 -> Collider 설정
+5. Spark Effect 관리 
+
+따라서 Unity 화면에서는 Hierarchy, Project 탭, Inspector 탭 활용하고, 몬스터 경로관리는 Navigation, 
+Scene 화면과 Game 화면에서 관리랑, 움직임은 Animator 화면에서 관리.
+캐릭터 카메라 -> Cinemachine
+
+위에 window 탭에서 Asset Store에서 필요한 이미지 다운 가능
+
+Edit, Assets, 탭 활용하기.
+
+나머지는 Project 탭에서 C# Script 생성 -> 비주얼 스튜디오에서 코드 관리.
